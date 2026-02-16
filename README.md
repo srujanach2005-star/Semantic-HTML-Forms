@@ -133,4 +133,6 @@
 </html>
 
 # OUT PUT
-![Day-2](Day-2/img/day-2-output.png)
+
+![Day-2](img/day-2-output.png)
+
