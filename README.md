@@ -2,6 +2,7 @@
 # 🔹 What is Semantic HTML?
 
 -Semantic HTML means using meaningful tags that describe the purpose of the content.
+
 -Instead of using only <div> we use proper structure tags.
 
 # 🔹 Important Semantic Tags #
